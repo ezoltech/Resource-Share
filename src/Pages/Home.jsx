@@ -4,9 +4,10 @@ import { SideBar } from '../Components/SideBar'
 
 const Home = () => {
   return (
-    <div className='flex flex-row gap-3'>
+    <div className='flex flex-row gap-5'>
         <SideBar />
         <Menu />
+        
     </div>
   )
 }

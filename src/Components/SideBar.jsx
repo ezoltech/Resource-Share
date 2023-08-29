@@ -2,6 +2,8 @@ import React from 'react'
 import {Card }from "flowbite-react"
 export const SideBar = () => {
   return (
+
+    
         <div className='flex flex-row'>
       {/* Sidebar Toggle Button */}
       <button
